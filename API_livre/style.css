@@ -1,0 +1,47 @@
+body{
+    
+    width: auto;
+    height: auto;
+    display: grid;
+    padding: 2px;
+    align-items: center;
+}
+
+#busca{
+   display: flex;
+}
+
+div{
+    padding:5px;
+}
+
+#conteudo{
+
+
+    margin: auto;
+    width: auto;
+    height: auto;
+    display:flex;
+    padding: 5px;
+    
+    
+}
+
+textarea{
+    margin: auto;
+    width: 370px;
+    height: 200px;
+}
+
+#dados{
+    align-items: flex-start;
+    padding: 5px;
+}
+
+#imagem{
+
+
+    height: 500px;
+    width: 500px;
+}
+
